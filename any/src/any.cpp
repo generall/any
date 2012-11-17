@@ -26,7 +26,7 @@ public:
 	T t;
 	void print()
 	{
-		cout << t << std::endl;
+		cout << t << std::endl;//unknown error in eclipse;
 	}
 	B(T _t)
 	{
